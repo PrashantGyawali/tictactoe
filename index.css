@@ -127,6 +127,7 @@ border: indigo solid 1vh;
 
 .visible{
     display:block;
+    transition: 1s;
 }
 
 .x-hover:hover::after{
